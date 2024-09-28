@@ -6,4 +6,6 @@ This is a Traffic Light Classifier that classifies lights into red, green or yel
 
 I standardized the input images and the output labels. So that I can use the same classification pipeline.
 
+<img width="362" alt="Standardized" src="https://github.com/user-attachments/assets/22515c78-43c2-4c7c-bcc4-4596f3376cd1">
+
 I made Feature Extraction - 
