@@ -19,3 +19,10 @@ I made an histogram of frequencies of intensity values for each row in the image
 ## Classifier 
 
 Then I classified the images using the histogram of frequencies.
+
+<img width="583" alt="Estimate Label" src="https://github.com/user-attachments/assets/4139cf2e-b55d-4732-a794-fec807b726af">
+
+
+
+
+
