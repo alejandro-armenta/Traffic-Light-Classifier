@@ -12,10 +12,10 @@ I standardized the input images and the output labels. So that I can use the sam
 
 ## Feature Extraction
 
-I made a filter that counts the intensity values vertically. 
+I made an histogram of frequencies of intensity values for each row in the image. Cropped and masked obviuously.
 
 <img width="590" alt="HSV" src="https://github.com/user-attachments/assets/6336eeff-9294-4c59-b00f-166095a6b309">
 
 ## Classifier 
 
-Then I classify based on the index of the maximum row.
+Then I classified the images using the histogram of frequencies.
